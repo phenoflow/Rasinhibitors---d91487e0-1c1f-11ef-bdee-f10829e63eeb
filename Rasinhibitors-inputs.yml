@@ -1,0 +1,216 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/rasinhibitors-400mg---primary.py
+inputModule3:
+  class: File
+  path: python/rasinhibitors-375mg---primary.py
+inputModule4:
+  class: File
+  path: python/rasinhibitors-150mg---primary.py
+inputModule5:
+  class: File
+  path: python/rasinhibitors-100mg---primary.py
+inputModule6:
+  class: File
+  path: python/rasinhibitors-625mg---primary.py
+inputModule7:
+  class: File
+  path: python/rasinhibitors-320mg---primary.py
+inputModule8:
+  class: File
+  path: python/rasinhibitors-cozaarcomp---primary.py
+inputModule9:
+  class: File
+  path: python/rasinhibitors-erbumine---primary.py
+inputModule10:
+  class: File
+  path: python/rasinhibitors-innovace---primary.py
+inputModule11:
+  class: File
+  path: python/rasinhibitors-moexipril---primary.py
+inputModule12:
+  class: File
+  path: python/zestoretic-rasinhibitors---primary.py
+inputModule13:
+  class: File
+  path: python/rasinhibitors-candesartan---primary.py
+inputModule14:
+  class: File
+  path: python/rasinhibitors-600mg---primary.py
+inputModule15:
+  class: File
+  path: python/rasinhibitors-gopten---primary.py
+inputModule16:
+  class: File
+  path: python/rasinhibitors-fosinopril---primary.py
+inputModule17:
+  class: File
+  path: python/rasinhibitors-bisoprolol---primary.py
+inputModule18:
+  class: File
+  path: python/rasinhibitors-lisopress---primary.py
+inputModule19:
+  class: File
+  path: python/rasinhibitors-captopril---primary.py
+inputModule20:
+  class: File
+  path: python/rasinhibitors-tritace---primary.py
+inputModule21:
+  class: File
+  path: python/rasinhibitors-indapamide---primary.py
+inputModule22:
+  class: File
+  path: python/rasinhibitors-ramipril---primary.py
+inputModule23:
+  class: File
+  path: python/rasinhibitors-180mg---primary.py
+inputModule24:
+  class: File
+  path: python/rasinhibitors-trandolapril---primary.py
+inputModule25:
+  class: File
+  path: python/rasinhibitors-quinapril---primary.py
+inputModule26:
+  class: File
+  path: python/rasinhibitors-exforge---primary.py
+inputModule27:
+  class: File
+  path: python/rasinhibitors-carace---primary.py
+inputModule28:
+  class: File
+  path: python/rasinhibitors-vascace---primary.py
+inputModule29:
+  class: File
+  path: python/rasinhibitors-coversyl---primary.py
+inputModule30:
+  class: File
+  path: python/rasinhibitors-losartan---primary.py
+inputModule31:
+  class: File
+  path: python/rasinhibitors-arginine---primary.py
+inputModule32:
+  class: File
+  path: python/rasinhibitors-300mg---primary.py
+inputModule33:
+  class: File
+  path: python/rasinhibitors-suspension---primary.py
+inputModule34:
+  class: File
+  path: python/rasinhibitors-codiovan---primary.py
+inputModule35:
+  class: File
+  path: python/rasinhibitors-160mg---primary.py
+inputModule36:
+  class: File
+  path: python/rasinhibitors-teveten---primary.py
+inputModule37:
+  class: File
+  path: python/rasinhibitors-capoten---primary.py
+inputModule38:
+  class: File
+  path: python/rasinhibitors-accupro---primary.py
+inputModule39:
+  class: File
+  path: python/rasinhibitors-perindopril---primary.py
+inputModule40:
+  class: File
+  path: python/rasinhibitors-ednyt---primary.py
+inputModule41:
+  class: File
+  path: python/rasinhibitors-perdix---primary.py
+inputModule42:
+  class: File
+  path: python/rasinhibitors-capozide---primary.py
+inputModule43:
+  class: File
+  path: python/rasinhibitors-tosilate---primary.py
+inputModule44:
+  class: File
+  path: python/rasinhibitors-kaplon---primary.py
+inputModule45:
+  class: File
+  path: python/rasinhibitors-tablet---primary.py
+inputModule46:
+  class: File
+  path: python/rasinhibitors-modifiedrelease---primary.py
+inputModule47:
+  class: File
+  path: python/rasinhibitors-titration---primary.py
+inputModule48:
+  class: File
+  path: python/pralenal-rasinhibitors---primary.py
+inputModule49:
+  class: File
+  path: python/rasinhibitors-500microgram---primary.py
+inputModule50:
+  class: File
+  path: python/rasinhibitors-captomex---primary.py
+inputModule51:
+  class: File
+  path: python/rasinhibitors-solution---primary.py
+inputModule52:
+  class: File
+  path: python/rasinhibitors-wafer---primary.py
+inputModule53:
+  class: File
+  path: python/rasinhibitors-tanatril---primary.py
+inputModule54:
+  class: File
+  path: python/rasinhibitors-amlodipine---primary.py
+inputModule55:
+  class: File
+  path: python/generic-rasinhibitors---primary.py
+inputModule56:
+  class: File
+  path: python/rasinhibitors-aprovel---primary.py
+inputModule57:
+  class: File
+  path: python/rasinhibitors-quinil---primary.py
+inputModule58:
+  class: File
+  path: python/rasinhibitors-zestril---primary.py
+inputModule59:
+  class: File
+  path: python/rasinhibitors-ecopace---primary.py
+inputModule60:
+  class: File
+  path: python/rasinhibitors-tensopril---primary.py
+inputModule61:
+  class: File
+  path: python/rasinhibitors-cilazapril---primary.py
+inputModule62:
+  class: File
+  path: python/rasinhibitors-acepril---primary.py
+inputModule63:
+  class: File
+  path: python/rasinhibitors-eprosartan---primary.py
+inputModule64:
+  class: File
+  path: python/rasinhibitors-noyada---primary.py
+inputModule65:
+  class: File
+  path: python/rasinhibitors-odrik---primary.py
+inputModule66:
+  class: File
+  path: python/rasinhibitors-imidapril---primary.py
+inputModule67:
+  class: File
+  path: python/rasinhibitors-olmetec---primary.py
+inputModule68:
+  class: File
+  path: python/rasinhibitors-staril---primary.py
+inputModule69:
+  class: File
+  path: python/rasinhibitors-lopace---primary.py
+inputModule70:
+  class: File
+  path: python/rasinhibitors-olmesartan---primary.py
+inputModule71:
+  class: File
+  path: python/output-cases.py
